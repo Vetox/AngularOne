@@ -51,7 +51,7 @@ export class AppComponent {
     },
     four: {
       name: "Fundraising",
-      score: 60
+      score: 70
     }
   };
 
